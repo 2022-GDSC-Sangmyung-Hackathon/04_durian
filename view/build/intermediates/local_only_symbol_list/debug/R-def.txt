@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+drawable attention_off_48
+drawable attention_off_avg_48
+drawable attention_on_48
+drawable attention_on_avg_48
+drawable ball
+drawable baseline_visibility_black_48
+drawable baseline_visibility_off_black_48
+drawable drowsiness_off_48
+drawable drowsiness_on_48
+drawable twotone_visibility_black_48
+drawable twotone_visibility_off_black_48
+drawable vc_close_eye
+drawable vc_logo_circle
+drawable vc_open_eye
+id img_attention
+id img_drowsiness
+id img_eye
+id img_left_eye
+id img_right_eye
+id view
+layout view_attention
+layout view_drowsiness
+layout view_eye_blink

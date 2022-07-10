@@ -1,0 +1,58 @@
+visual/camp/sample/app/activity/DemoActivity.java
+ visual.camp.sample.app.activity.DemoActivity
+ visual.camp.sample.app.activity.DemoActivity$1
+ visual.camp.sample.app.activity.DemoActivity$2
+ visual.camp.sample.app.activity.DemoActivity$3
+ visual.camp.sample.app.activity.DemoActivity$4
+visual/camp/sample/app/calibration/CalibrationDataStorage.java
+ visual.camp.sample.app.calibration.CalibrationDataStorage
+visual/camp/sample/app/BuildConfig.java
+ visual.camp.sample.app.BuildConfig
+visual/camp/sample/app/GazeTrackerManager.java
+ visual.camp.sample.app.GazeTrackerManager
+ visual.camp.sample.app.GazeTrackerManager$1
+ visual.camp.sample.app.GazeTrackerManager$2
+ visual.camp.sample.app.GazeTrackerManager$3
+ visual.camp.sample.app.GazeTrackerManager$4
+ visual.camp.sample.app.GazeTrackerManager$5
+ visual.camp.sample.app.GazeTrackerManager$6
+ visual.camp.sample.app.GazeTrackerManager$LoadCalibrationResult
+visual/camp/sample/app/activity/LoginActivity.java
+ visual.camp.sample.app.activity.LoginActivity
+ visual.camp.sample.app.activity.LoginActivity$1
+visual/camp/sample/app/activity/StartActivity.java
+ visual.camp.sample.app.activity.StartActivity
+ visual.camp.sample.app.activity.StartActivity$1
+visual/camp/sample/app/activity/MainActivity.java
+ visual.camp.sample.app.activity.MainActivity
+ visual.camp.sample.app.activity.MainActivity$1
+ visual.camp.sample.app.activity.MainActivity$10
+ visual.camp.sample.app.activity.MainActivity$11
+ visual.camp.sample.app.activity.MainActivity$11$1
+ visual.camp.sample.app.activity.MainActivity$12
+ visual.camp.sample.app.activity.MainActivity$12$1
+ visual.camp.sample.app.activity.MainActivity$13
+ visual.camp.sample.app.activity.MainActivity$14
+ visual.camp.sample.app.activity.MainActivity$15
+ visual.camp.sample.app.activity.MainActivity$16
+ visual.camp.sample.app.activity.MainActivity$17
+ visual.camp.sample.app.activity.MainActivity$18
+ visual.camp.sample.app.activity.MainActivity$19
+ visual.camp.sample.app.activity.MainActivity$2
+ visual.camp.sample.app.activity.MainActivity$20
+ visual.camp.sample.app.activity.MainActivity$21
+ visual.camp.sample.app.activity.MainActivity$22
+ visual.camp.sample.app.activity.MainActivity$23
+ visual.camp.sample.app.activity.MainActivity$23$1
+ visual.camp.sample.app.activity.MainActivity$24
+ visual.camp.sample.app.activity.MainActivity$25
+ visual.camp.sample.app.activity.MainActivity$3
+ visual.camp.sample.app.activity.MainActivity$4
+ visual.camp.sample.app.activity.MainActivity$5
+ visual.camp.sample.app.activity.MainActivity$6
+ visual.camp.sample.app.activity.MainActivity$7
+ visual.camp.sample.app.activity.MainActivity$8
+ visual.camp.sample.app.activity.MainActivity$9
+visual/camp/sample/app/activity/ResultActivity.java
+ visual.camp.sample.app.activity.ResultActivity
+ visual.camp.sample.app.activity.ResultActivity$1

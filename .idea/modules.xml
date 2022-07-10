@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/durian.iml" filepath="$PROJECT_DIR$/.idea/modules/durian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/durian.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/durian.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/durian.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/durian.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/durian.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/durian.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/durian.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/durian.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gazetracker-release/durian.gazetracker-release.iml" filepath="$PROJECT_DIR$/.idea/modules/gazetracker-release/durian.gazetracker-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libgaze-release/durian.libgaze-release.iml" filepath="$PROJECT_DIR$/.idea/modules/libgaze-release/durian.libgaze-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view/durian.view.iml" filepath="$PROJECT_DIR$/.idea/modules/view/durian.view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view/durian.view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/view/durian.view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view/durian.view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/view/durian.view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view/durian.view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/view/durian.view.unitTest.iml" />
+    </modules>
+  </component>
+</project>
